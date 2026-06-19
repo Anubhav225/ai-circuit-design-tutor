@@ -1,4 +1,4 @@
-# ⚡ Circuit Design Q&A Tutor — Groq Edition (Free, Fast, Error-Free)
+# ⚡ Circuit Design Q&A Tutor — Groq Edition
 
 An AI electronics professor powered by **Groq's `llama-3.3-70b-versatile`** — completely free,
 extremely fast (Groq's specialty), and built with a clean, professional **light theme**.
